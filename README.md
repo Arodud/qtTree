@@ -1,2 +1,3 @@
 # qtTree
 
+Build with QtCreator
